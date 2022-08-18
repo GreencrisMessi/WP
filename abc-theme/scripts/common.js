@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmicrofrontend=self.webpackChunkmicrofrontend||[]).push([[592],{578:function(){new class{constructor(){console.log("[Layout] - Init Layout Blog")}}}}]);
